@@ -1,0 +1,2 @@
+In this  version, I added a scoring system to evaluate the strength of the password based on various criteria. I have also added additional checks such as minimum length, extra points for longer passwords, and provided more detailed feedback based on the score achieved. This approach allows for a more nuanced assessment of password strength.
+To allow the user to decide and provide more attempts to check the password, i have put the password assessment process in a loop and prompt the user if they want to try again. 
